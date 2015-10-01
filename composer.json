@@ -1,11 +1,11 @@
 {
-    "name": "ubublog/laravel-ceca",
+    "name": "rperello/laravel-ceca",
     "description": "Pasarela de Pago Ceca para Laravel 4.2",
     "license": "MIT",
     "authors": [
         {
-            "name": "Eduardo Diaz",
-            "email": "ssh.eduardo@gmail.com"
+            "name": "Rafael Perelló",
+            "email": "rperellorow@gmail.com"
         }
     ],
     "require": {
