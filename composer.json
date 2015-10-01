@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Rperello\\Ceca\\": "src/"
+            "Ubublog\\Ceca\\": "src/"
         }
     },
     "minimum-stability": "stable"
