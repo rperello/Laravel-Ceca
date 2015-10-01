@@ -1,6 +1,6 @@
 {
-    "name": "rperello/laravel-ceca",
-    "description": "Pasarela de Pago Ceca para Laravel 4.2",
+    "name": "rperello/Laravel-Ceca",
+    "description": "Pasarela de Pago Ceca para Laravel 4.1",
     "license": "MIT",
     "authors": [
         {
